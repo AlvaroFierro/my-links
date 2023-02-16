@@ -1,6 +1,6 @@
 {
   "name": "Alvaro Fierro",
-  "description": "Front-end Developer",
+  "description": "Frontend Developer",
   "image_url": "https://raw.githubusercontent.com/AlvaroFierro/my-links/main/profile-picture.png",
   "links": [
     {
@@ -12,6 +12,11 @@
       "title": "GitHub",
       "url": "https://bit.ly/3Z2U5gg",
       "icon": "github"
+    },
+    {
+      "title": "Blog",
+      "url": "https://bit.ly/3YxUXc1",
+      "icon": "link"
     },
     {
       "title": "Portfolio",

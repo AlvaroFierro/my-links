@@ -5,33 +5,28 @@
   "links": [
     {
       "title": "LinkedIn",
-      "url": "https://bit.ly/3WQgfkF",
+      "url": "https://linkedin.com/in/alvaro-fierro",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "https://bit.ly/3Z2U5gg",
+      "url": "https://github.com/AlvaroFierro",
       "icon": "github"
     },
     {
       "title": "Blog",
-      "url": "https://bit.ly/3YxUXc1",
+      "url": "https://alvaro-fierro.hashnode.dev/",
       "icon": "link"
     },
     {
       "title": "Portfolio",
-      "url": "https://bit.ly/3VC6h4T",
+      "url": "https://alvaro-fierro.pages.dev/",
       "icon": "link"
     },
     {
       "title": "Twitter",
-      "url": "https://bit.ly/3vIqmvX",
+      "url": "https://twitter.com/alvarofierroo",
       "icon": "twitter"
-    },
-    {
-      "title": "Instagram",
-      "url": "https://bit.ly/3vnoJmS",
-      "icon": "instagram"
     }
   ]
 }

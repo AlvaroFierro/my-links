@@ -25,14 +25,14 @@
   -webkit-transition: -webkit-transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
   -webkit-transition: transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
   transition: transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
-  background-color: transparent;
-  color: #000;
+  background-color: #000;
+  color: #fff;
 }
 
 .ld-custom-button-container:hover {
-  -webkit-transform: scale(1.02);
-  -ms-transform: scale(1.02);
-  transform: scale(1.02);
+  -webkit-transform: scale(1.01);
+  -ms-transform: scale(1.01);
+  transform: scale(1.01);
 }
 
 .ld-custom-button {
